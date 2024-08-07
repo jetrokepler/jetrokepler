@@ -1,4 +1,7 @@
-<img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif" width="600"/>
+<img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif" width="140"/>
+<img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif" width="140"/>
+<img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif" width="140"/>
+<img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif" width="140"/>
 
 # 💫 Sobre mim:
 🌱 3º Informática - E.E.E.P. Alfredo Nunes de Melo;<br>
