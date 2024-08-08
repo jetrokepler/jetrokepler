@@ -1,11 +1,7 @@
-<div display="flex" align="center">
-<img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif" width="137"/>
-<img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif" width="137"/>
-<img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif" width="137"/>
-<img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif" width="137"/>
-<img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif" width="137"/>
-<img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif" width="137"/>
+<div align="center">
+  <img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif" width="138"/><img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif" width="138"/><img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif" width="138"/><img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif" width="138"/><img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif" width="138"/><img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif" width="138"/>
 </div>
+
 
 <div align="center">
 
