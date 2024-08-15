@@ -7,8 +7,9 @@
 
 # 💫 Sobre mim:
 🌱 3º Informática - E.E.E.P. Alfredo Nunes de Melo;<br>
-🥉 Medalhista de bronze na <a>XI Olimpíada Cearense de Informática (2023)</a>;<br>
-🔭 Desenvolvi alguns projetos de automação, web scraping e análise de dados.
+🥉 Medalhista de bronze na XI Olimpíada Cearense de Informática (2023);<br>
+🔭 Desenvolvi alguns projetos de automação, web scraping e análise de dados;<br>
+🌟 Atualmente estudando Next.js.
 
 # 🌐 Redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jetrokepler)
